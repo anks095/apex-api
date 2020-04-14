@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const URL = 'https://public-api.tracker.gg/apex/v1/standard/profile';
+const URL = 'https://public-api.tracker.gg/apex/v2/standard/profile';
 
 /**
  * The main hub for the client, to be instantiated.
